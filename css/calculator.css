@@ -1,0 +1,29 @@
+.zero{
+	background-color: grey;
+	padding: 5px;
+	color: #fff;
+	font-size: 70px;
+	margin-top: 40px;
+}
+.numbers{
+	background-color: silver;
+	border: solid 1px grey;
+	padding: 10px;
+	font-size: 50px;
+}
+.sign{
+	background-color: orange;
+	border: solid 1px grey;
+	padding: 10px;
+	font-size: 50px;
+	color: #fff;
+	border-right: none;
+}
+.secondzero{
+	background-color: silver;
+	border: solid 1px grey;
+	padding: 10px;
+	font-size: 50px;
+	border-left: none;
+	border-bottom: none;
+}

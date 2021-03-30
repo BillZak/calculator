@@ -1,0 +1,30 @@
+h1{
+   font-size: 50px;
+   margin:30px;
+   font-family: 'Roboto', sans-serif;
+   
+}
+.head{
+	background: lavenderblush;
+	padding: 10px;
+}
+h3{
+	font-size: 30px;
+	color:darkslateblue;
+}
+p{
+	font-size: 18px;
+}
+.footer{
+	text-align: right;
+	margin:20px;
+	background: cornsilk;
+	padding: 20px;
+}
+li{
+	list-style: none;
+}
+.container-flex{
+	margin-right: 20px;
+	margin-left:20px; 
+}
